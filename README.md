@@ -2,11 +2,6 @@
 
 This repository contains code and configuration files for Google Cloud Data Analytics Project.This project demonstrates the integration of several GCP services to create an efficient and automated data pipeline for sales data. We'll show you how to:
 
-
-Refer youtube Video for this project
- [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/_CQCOusfGrs)
-
-
 ![image](https://github.com/vishal-bulbule/sales-data-pipeline-project/assets/143475073/530f2c9e-945c-414c-8c85-5b489e92360e)
 
 
